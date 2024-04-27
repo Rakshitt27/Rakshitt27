@@ -4,7 +4,7 @@
 
 
 
-### About Me 🌐
+### About Me 👨‍💻
 I am passionate data analyst intern currently working at the Bureau of Meteorology. With a strong interest in machine learning and data visualization, I'm always eager to explore new ways to uncover insights and tell compelling stories through data. 
 
 I'm in the final semester of my Master's degree in Data Analytics at RMIT University, set to graduate in June 2024.
