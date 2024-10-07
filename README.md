@@ -5,7 +5,7 @@
 
 
 ## About Me 👨‍💻
-I'm a passionate data analyst with experience at the Bureau of Meteorology. With a strong interest in machine learning and data visualization, I'm always eager to explore new ways to uncover insights and tell compelling stories through data.
+I'm a passionate data analyst with hands-on experience at the Bureau of Meteorology, where I transformed complex datasets into actionable insights. My strong interest in data visualization and storytelling drives me to create impactful dashboards and reports that inform decision-making. While I have a solid foundation in machine learning, I'm also enthusiastic about leveraging cloud technologies to manage and analyze large datasets efficiently. I enjoy exploring new tools and techniques to uncover hidden patterns in data and am always eager to tackle real-world challenges through data-driven solutions.
 
 💬 Talk to me about Latest Tech gadgets ,Table Tennis 🏓, Data-Memes 😆 and Amateur Photography 📸
 
