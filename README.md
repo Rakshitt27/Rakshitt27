@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Rakshit Chandna!
 
-## 🚀 Data Analyst Intern focusing on Machine Learning!
+## 🚀 Data Analyst focused on data-driven strategy and cloud-based analytics solutions!
 
 
 
 ## About Me 👨‍💻
-I am passionate data analyst intern currently working at the Bureau of Meteorology. With a strong interest in machine learning and data visualization, I'm always eager to explore new ways to uncover insights and tell compelling stories through data. I'm in the final semester of my Master's degree in Data Analytics at RMIT University, set to graduate in June 2024.
+I'm a passionate data analyst with experience at the Bureau of Meteorology. With a strong interest in machine learning and data visualization, I'm always eager to explore new ways to uncover insights and tell compelling stories through data.
 
 💬 Talk to me about Latest Tech gadgets ,Table Tennis 🏓, Data-Memes 😆 and Amateur Photography 📸
 
